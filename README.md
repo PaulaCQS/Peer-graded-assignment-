@@ -1,2 +1,2 @@
-# Peer-graded-assignment-
+# Peer Graded Assignment
 Jupyter Notebook
